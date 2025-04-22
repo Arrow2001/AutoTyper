@@ -1,0 +1,17 @@
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\bin\Debug\net8.0-windows\AutoTyper.exe
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\bin\Debug\net8.0-windows\AutoTyper.deps.json
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\bin\Debug\net8.0-windows\AutoTyper.runtimeconfig.json
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\bin\Debug\net8.0-windows\AutoTyper.dll
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\bin\Debug\net8.0-windows\AutoTyper.pdb
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.Form1.resources
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.csproj.GenerateResource.cache
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.AssemblyInfoInputs.cache
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.AssemblyInfo.cs
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.dll
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\refint\AutoTyper.dll
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.pdb
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.genruntimeconfig.cache
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\ref\AutoTyper.dll
+C:\Users\Nicho\Desktop\Projects\AutoTyper\AutoTyper\AutoTyper\obj\Debug\net8.0-windows\AutoTyper.Properties.Resources.resources

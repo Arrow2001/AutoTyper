@@ -1,0 +1,2 @@
+# AutoTyper
+ A wee autotyper
