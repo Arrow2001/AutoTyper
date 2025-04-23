@@ -34,6 +34,7 @@
             amountLabel = new Label();
             amountNumUpDown = new NumericUpDown();
             loopLabel = new Label();
+            loopProgress = new ProgressBar();
             ((System.ComponentModel.ISupportInitialize)amountNumUpDown).BeginInit();
             SuspendLayout();
             // 
@@ -66,6 +67,7 @@
             // amountNumUpDown
             // 
             amountNumUpDown.Location = new Point(183, 57);
+            amountNumUpDown.Maximum = new decimal(new int[] { 9999, 0, 0, 0 });
             amountNumUpDown.Name = "amountNumUpDown";
             amountNumUpDown.Size = new Size(180, 31);
             amountNumUpDown.TabIndex = 5;
@@ -79,12 +81,20 @@
             loopLabel.TabIndex = 6;
             loopLabel.Text = "Loops: 0";
             // 
+            // loopProgress
+            // 
+            loopProgress.Location = new Point(189, 119);
+            loopProgress.Name = "loopProgress";
+            loopProgress.Size = new Size(174, 34);
+            loopProgress.TabIndex = 7;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLight;
             ClientSize = new Size(632, 366);
+            Controls.Add(loopProgress);
             Controls.Add(loopLabel);
             Controls.Add(amountNumUpDown);
             Controls.Add(amountLabel);
@@ -93,6 +103,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Arrow's AutoTyper";
+            FormClosing += Form1_FormClosing;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)amountNumUpDown).EndInit();
             ResumeLayout(false);
@@ -106,5 +117,6 @@
         private Label amountLabel;
         private NumericUpDown amountNumUpDown;
         private Label loopLabel;
+        private ProgressBar loopProgress;
     }
 }
