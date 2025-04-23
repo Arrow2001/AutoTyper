@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\",
+  "WorkspaceRootPath": "D:\\Projects\\AutoTyper\\AutoTyper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|c:\\users\\nicho\\desktop\\projects\\autotyper\\autotyper\\autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|d:\\projects\\autotyper\\autotyper\\autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|solutionrelative:autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|d:\\projects\\autotyper\\autotyper\\autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44EEDBAE-0B73-4AC3-8077-8EACF9B36B66}|AutoTyper\\AutoTyper.csproj|solutionrelative:autotyper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
               "RelativeDocumentMoniker": "AutoTyper\\Form1.cs",
-              "ToolTip": "C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
+              "ToolTip": "D:\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
               "RelativeToolTip": "AutoTyper\\Form1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wEEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T20:12:36.768Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs",
               "RelativeDocumentMoniker": "AutoTyper\\Form1.cs",
-              "ToolTip": "C:\\Users\\Nicho\\Desktop\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs [Design]",
+              "ToolTip": "D:\\Projects\\AutoTyper\\AutoTyper\\AutoTyper\\Form1.cs [Design]",
               "RelativeToolTip": "AutoTyper\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T20:03:15.247Z",

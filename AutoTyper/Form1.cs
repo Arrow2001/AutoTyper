@@ -19,9 +19,10 @@ namespace AutoTyper
         public Form1()
         {
             InitializeComponent();
-            this.TopMost = true;
+            this.Activated += (s, e) => this.TopMost = true;
             this.MinimizeBox = false;
             this.MaximizeBox = false;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.FormClosing += Form1_FormClosing;
         }
 
@@ -57,9 +58,12 @@ namespace AutoTyper
                     SafeInvoke(() =>
                     {
                         loopLabel.Text = $"{i + 1}/{amount} completed";
+                        int remaining = amount - (i + 1);
+                        TimeSpan eta = TimeSpan.FromMilliseconds(remaining * 2000);
+                        etaLabel.Text = $"ETA: {eta.Minutes}m{eta.Seconds}s";
                         loopProgress.Value = i + 1;
                     });
-                    await Task.Delay(1500, token); // 1.5 second wait
+                    await Task.Delay(2000, token); // 1.5 second wait
                 }
                 if (token.IsCancellationRequested)
                 {
@@ -84,6 +88,7 @@ namespace AutoTyper
                 {
                     loopLabel.Text = "Ready";
                     loopProgress.Value = 0;
+                    etaLabel.Text = "ETA:";
                 });
                 cancelToken.Dispose();
             }

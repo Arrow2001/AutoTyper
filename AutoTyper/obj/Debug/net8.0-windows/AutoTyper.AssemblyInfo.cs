@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoTyper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bb051356f4d7031a6c99a64dd684f0e87c3ffdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4ed5fd12c5b4ae6a0775b954dfe2526719b18e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoTyper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoTyper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
